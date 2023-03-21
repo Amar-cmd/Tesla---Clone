@@ -3,7 +3,7 @@
 
 NOTE: THIS IS A CLONE WEBSITE. DO NOT EXPECT IT TO FUNCTION PROPERLY JUST LIKE REAL TESLA WEBSITE. THIS SITE IS MY FIRST     CLONE WEBSITE USING REACT AND IT IS BUILD FOR THE PURPOSE OF LEARNING ONLY.
 
-> Live demo [_here_]([https://cloneteslareact.netlify.app/]). 
+> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Project Status
 
