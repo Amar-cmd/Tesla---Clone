@@ -13,5 +13,6 @@ Room for improvement:
 
 - To add more pages and features.
 - Few Bugs to remove.
+- Make Mobile Responsive
 
 Created by [@Amar Jyoti](amarentp23@gmail.com) - feel free to contact me!
